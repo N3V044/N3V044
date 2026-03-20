@@ -1,16 +1,18 @@
-## Hi there 👋
+# Nevo Ben Ami
 
-<!--
-**N3V044/N3V044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst focused on detection, monitoring, and practical security projects.
 
-Here are some ideas to get you started:
+## About Me
+Information Systems Engineering graduate with a Cyber Security specialization and 3+ years of experience in security monitoring, alert analysis, and technical operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background includes SIEM and EDR monitoring, alert investigation, log analysis, and hands-on work with SQL, Python, AWS, Docker, and cloud environments.
+
+Technical projects in phishing detection, security analysis, and system reliability reflect a practical, analytical approach with a strong focus on real-world security work.
+
+## Links
+- LinkedIn: [linkedin.com/in/nevo-ben-ami-information-systems-engineering](https://www.linkedin.com/in/nevo-ben-ami-information-systems-engineering/)
+- GitHub Portfolio: [github.com/N3V044](https://github.com/N3V044)
+- Email: [nevoba44@gmail.com](mailto:nevoba44@gmail.com)
+
+## Note
+The projects showcased here are streamlined demo versions built for portfolio and presentation purposes. The original projects were more extensive and included additional functionality, broader scope, and deeper implementation.
