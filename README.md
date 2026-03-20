@@ -15,4 +15,5 @@ Technical projects in phishing detection, security analysis, and system reliabil
 - Email: [nevoba44@gmail.com](mailto:nevoba44@gmail.com)
 
 ## Note
-The projects showcased here are streamlined demo versions built for portfolio and presentation purposes. The original projects were more extensive and included additional functionality, broader scope, and deeper implementation.
+The projects showcased here are streamlined demo versions built for portfolio and presentation purposes. 
+The original projects were more extensive and included additional functionality, broader scope, and deeper implementation.
