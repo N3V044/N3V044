@@ -6,7 +6,8 @@ Cybersecurity Analyst building hands-on detection, monitoring, and SOC-style sec
 Information Systems Engineering graduate with a Cyber Security specialization and 3+ years of experience in security monitoring, 
 alert analysis, and technical operations.
 
-Background includes SIEM and EDR monitoring, alert investigation, log analysis, and hands-on work with SQL, Python, AWS, Docker, and cloud environments.
+Background includes SIEM and EDR monitoring, alert investigation, log analysis, and hands-on work with SQL, Python, AWS, Docker, 
+and cloud environments.
 
 Technical projects in phishing detection, security analysis, and system reliability reflect a practical, analytical approach with a strong focus on real-world security work.
 
