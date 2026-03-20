@@ -1,6 +1,6 @@
 # Nevo Ben Ami
 
-Cybersecurity Analyst focused on detection, monitoring, and practical security projects.
+Cybersecurity Analyst building hands-on detection, monitoring, and SOC-style security solutions.
 
 ## About Me
 Information Systems Engineering graduate with a Cyber Security specialization and 3+ years of experience in security monitoring, alert analysis, and technical operations.
