@@ -1,6 +1,6 @@
 # Nevo Ben Ami
 
-Cybersecurity Analyst building hands-on detection, monitoring, and SOC-style security solutions.
+Cybersecurity Analyst translating security concepts into practical, interactive interfaces.
 
 This profile showcases practical security projects that cover a broad range of core cybersecurity domains, with a focus on clear logic, technical depth, and real-world relevance.
 Together, they reflect a practical and analytical approach to cybersecurity work.
