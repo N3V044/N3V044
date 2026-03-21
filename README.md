@@ -11,4 +11,5 @@ threat detection dashboards, and simulated banking attacks, turning core securit
 📱 Phone: +972548350089  
 
 ## Note
-The interfaces presented here are streamlined demo versions for portfolio use. The original versions are broader and include additional functionality and deeper implementation.
+The interfaces presented here are streamlined demo versions for portfolio use. 
+The original versions are broader and include additional functionality and deeper implementation.
