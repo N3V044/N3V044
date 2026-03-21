@@ -8,5 +8,4 @@ Through this profile, I showcase interactive cybersecurity scenarios across phis
 📱 Phone: +972548350089  
 
 ## Note
-The interfaces presented here are streamlined demo versions for portfolio use. 
-The original versions are broader and include additional functionality and deeper implementation.
+The interfaces shown here are demo versions created for portfolio use. The original versions are larger and include more features and deeper implementation.
