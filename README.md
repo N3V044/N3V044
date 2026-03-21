@@ -2,8 +2,8 @@
 
 Cybersecurity Analyst translating security concepts into practical, interactive interfaces.
 
-My profile brings together interactive cybersecurity scenarios across phishing detection, SQL injection, SIEM operations, threat detection dashboards, 
-and simulated banking attacks, turning core security ideas into practical demos with clear logic and real-world context.
+My profile brings together interactive cybersecurity scenarios across phishing detection, SQL injection, SIEM operations, 
+threat detection dashboards, and simulated banking attacks, turning core security ideas into practical demos with clear logic and real-world context.
 
 
 ## Contact
